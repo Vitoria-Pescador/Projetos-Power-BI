@@ -1,0 +1,63 @@
+------------Sobre o Projeto
+
+Este projeto apresenta um dashboard interativo desenvolvido no Power BI para análise e acompanhamento da gestão de imóveis para aluguel.
+O objetivo é transformar dados imobiliários em informações visuais e estratégicas, permitindo identificar padrões de receita, distribuição de imóveis e situação atual das locações.
+
+------------Objetivo da Análise
+
+O dashboard foi criado para auxiliar na análise de indicadores importantes da gestão imobiliária, como:
+ -Total de imóveis cadastrados
+ -Quantidade de imóveis alugados
+ -Receita mensal gerada pelos aluguéis
+ -Distribuição de imóveis por tipo
+ -Valor médio de aluguel por bairro
+ -Status atual dos imóveis
+
+----------Indicadores Principais (KPIs)
+
+O painel apresenta os seguintes indicadores de desempenho:
+ -Total de Imóveis
+ -Imóveis Alugados
+ -Receita Mensal de Aluguéis
+ -Valor Médio de Aluguel
+
+Esses indicadores permitem uma visão rápida do desempenho geral da carteira de imóveis.
+
+----------Análises do Dashboard
+
+O relatório inclui diferentes visualizações para facilitar a análise dos dados:
+
+A distribuição de imóveis por categoria:
+ -Casa
+ -Apartamento
+ -Sala Comercial
+ -Galpão
+ -Kitnet
+ -Box/Garagem
+ -Terreno
+
+*Essa análise permite entender quais tipos de imóveis são mais comuns na carteira.
+
+---------Status dos Imóveis
+
+Apresenta a situação atual dos imóveis:
+ -Alugado
+ -Disponível
+ -Em manutenção
+
+Essa visualização ajuda a identificar a taxa de ocupação dos imóveis.
+
+
+---------Possíveis Insights
+
+A partir da análise do dashboard é possível identificar:
+
+ -Alguns bairros apresentam valores médios de aluguel significativamente maiores, indicando maior valorização imobiliária.
+ -A maior parte dos imóveis encontra-se alugada, sugerindo uma boa taxa de ocupação.
+ -Determinados tipos de imóveis representam maior parte da carteira imobiliária, podendo indicar foco do mercado.
+
+------Ferramentas Utilizadas
+ -Power BI
+ -Modelagem de Dados
+ -DAX
+ -Visualização de Dados
